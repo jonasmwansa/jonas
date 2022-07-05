@@ -2,7 +2,7 @@
 
 Meet jonas Mwansa,
 
-Jonas is a seasoned, proactive and practical computer engineer  with a passion to develop innovative programs that expedite the efficiency and effectiveness of mankind operation. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Am able to work as an individual as well as collaborative abilities when working in team settings.
+Jonas is a seasoned, proactive and practical computer engineer  with a passion to develop innovative programs that expedite the efficiency and effectiveness of mankind operation. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Am able to work as an individual as well as collaborative when working in team settings.
 
 - 🔭 I’m currently working on react library to understand it to the core
 - 🌱 am also learning full stack software development with [dufuna](https://www.dufuna.com/) and [bongohive](https://bongohive.co.zm/)
