@@ -1,4 +1,4 @@
-Up### Hi there 👋
+### Hi there 👋
 
 Meet jonas Mwansa,
 
